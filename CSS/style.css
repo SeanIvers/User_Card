@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.user-card {
+    width: 800px;
+    margin: 0 auto;
+    border: 2px solid rgb(204, 204, 204);
+}
