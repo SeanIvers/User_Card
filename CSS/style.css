@@ -6,28 +6,48 @@
 .user-card {
     width: 750px;
     margin: 0 auto;
-    padding: 30px;
+    padding: 50px;
 }
 .topbar {
     background-color: rgb(21, 163, 184);
-    height: 90px;
+    height: 110px;
 }
 .user-circle {
     width: 100px;
     border: 4px solid white;
-    outline: 2px solid rgb(204, 204, 204);
+    outline: 3px solid rgb(204, 204, 204);
     border-radius: 50%;
 }
 .bottom-bar {
-    border: 3px solid rgb(204, 204, 204);
+    border: 4px solid rgb(204, 204, 204);
     border-top: none;
 }
 .profile {
     position: relative;
-    bottom: 30px;
-    left: 50px;
+    margin-left: 55px;
+    bottom: 55px;
 }
 h1 {
     font-size: 240%;
     font-weight: normal;
+}
+.map-marker {
+    width: 15px;
+    padding: 10px 10px 10px 5px;
+}
+label {
+    font-size: larger;
+    position: relative;
+    bottom: 15px;
+}
+.description {
+    margin: 15px 0px 25px;
+}
+.gear {
+    width: 20px;
+}
+a {
+    margin: 10px;
+    vertical-align: top;
+    color: rgb(43, 119, 228);
 }
